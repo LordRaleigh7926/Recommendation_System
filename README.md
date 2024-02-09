@@ -13,8 +13,8 @@ The movie data is sourced from the [MovieLens dataset](https://grouplens.org/dat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/LordRaleigh7926/Recommendation_System/.git
+cd Recommended_System
 ```
 
 2. Download the MovieLens dataset:
