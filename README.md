@@ -17,14 +17,17 @@ git clone https://github.com/LordRaleigh7926/Recommendation_System.git
 cd Recommended_System
 ```
 
-2. Download the MovieLens dataset:
+2. Install dependencies:
 
-   Visit [MovieLens](https://grouplens.org/datasets/movielens/latest/), download the dataset, and place the files in the `data/` directory.
+```bash
+pip3 install -r requirements.txt
+```
+Note: For Windows user instead of pip3 it will be pip.
 
 3. Run the recommendation system:
 
 ```bash
-python recommend_movies.py
+streamlit run Recommender.py
 ```
 
 
